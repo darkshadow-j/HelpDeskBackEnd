@@ -34,7 +34,7 @@ Powyższy formularz umożliwia rejestracje nowego zgłoszenia w systemie HelpDes
 
 Po kliknięciu w przycisk ‘Submit’ zgłoszenie zostaje zarejestrowane w systemie:
 
-![skkoook](./2.png)
+![skkoook](img/2.png)
 
 System w tym momencie wykorzystując techniki programowania aspektowego wyśle wiadomość Email do pracownika Helpdesk o nowym zgłoszeniu
 
@@ -42,11 +42,11 @@ System w tym momencie wykorzystując techniki programowania aspektowego wyśle w
 
 Pracownik HelpDesku ma na sidebarze zakładkę dającą możliwość przeglądania wszystkich zgłoszeń jakie trafiły do systemu. Widok przedstawia poniższy rysunek.
 
-![ss](./3.PNG)
+![ss](img/3.PNG)
 
 Pracownik na tym poziomi widzi temat zgłoszenia, osobę która zainicjowała zgłoszenie oraz  kategorię danego zgłoszenia. Pracownik ma możliwość wyświetlenia szczegółowych informacji klikając w przycisk ‘View’. Widok aplikacji prezentującej szczegółowe informacje zawarte w zgłoszeniu przedstawia poniższy rysunek
 
-![ssa](./4.PNG)
+![ssa](img/4.PNG)
 
 Ma tym etapie operator widzi informacje na temat osoby zgłaszającej oraz jej adres email. Dodatkowo widzi 
 jaki priorytet został nadany przez system w tym zgłoszeniu (default’owo jest to MEDIUM), status zgłoszenia,
@@ -57,15 +57,15 @@ Dalszą korespondencje z osobą dokonującą zgłoszenia.
 
 Operator w przypadku, gdy zgłoszenia jest w statusie ‘NOWY’ ma możliwość przypisania zgłoszenia do siebie. W tym celu wybiera z górnej belki przycisk Operacje -> Przypis do siebie.
 
-![ssb](./5.PNG)
+![ssb](img/5.PNG)
 
 Status zostanie automatycznie zmieniony na  ‘Przypisany’, a operator pod przyciskiem Operacje dostanie dwie nowe opcje do wyboru i są to kolejno:
 
 Zamknij sprawę – zamyka sprawę w systemie ustawiając status na ‘ZREALIZOWANY’
 Wyślij wiadomość – wysyła wiadomość do osoby, która dokonała zgłoszenia np. o jakieś bardziej szczegółowe informacje. Funkcjonalność ta została zaprezentowana za poniższym 
 
-![ssb](./6.PNG)
-![ssba](./7.PNG)
+![ssb](img/6.PNG)
+![ssba](img/7.PNG)
 
 Po tej wykonaniu tej opracji odpowiedź można zobaczyć wchodząc w szczegóły danego zgłoszenia i na dole jest pole zawierające wszystkie odpowiedzi. 
 
@@ -73,10 +73,10 @@ Po tej wykonaniu tej opracji odpowiedź można zobaczyć wchodząc w szczegóły
 
 Na stronie głównej aplikacji prezentowane są proste  statystyki dotyczące zarejestrowanych zgłoszeń w systemie. Zaobserwować tutaj można informacje o tym ile zgloszeń jest w statusie ‘NOWE’, ile w ‘PRZYPISANE’, a ile jest spraw zamkniętych. Dodatkowo prezentowane są wykresy zawierające 3 obszary, w których następuje najwięcej zgłoszeń. Dzięki temu administrator ma informację o tym gdzie należy ewentualnie dopracować infrastrukturę, aby zredukować ilość zgłoszeń w przyszłości.
 
-![ssba](./8.PNG)
+![ssba](img/8.PNG)
 
 ## Konfigurowanie Kategorii i Subategorii w systemie HelpDesk
 
 System umożliwia konfigurowania Kategorii i Subategorii przez pracowników HelpDesk. Wówczas pracownicy będą mogli wybierać te kategorie w formularzuy zgłoszeniowym. Funkcjonalność ta dostępna jest z poziomu sidebar’u (Ustawienia systemu – Kategorie i SubKategorie )
 
-![ssba](./9.PNG)
+![ssba](img/9.PNG)
