@@ -1,6 +1,7 @@
 ## Table of contents
 * [General info](#general-info)
 * [Technologie](#Technologie)
+* [Demo](#Demo)
 
 ## General info
 Projekt wykonany po ukończeniu kursów:
@@ -80,3 +81,10 @@ Na stronie głównej aplikacji prezentowane są proste  statystyki dotyczące za
 System umożliwia konfigurowania Kategorii i Subategorii przez pracowników HelpDesk. Wówczas pracownicy będą mogli wybierać te kategorie w formularzuy zgłoszeniowym. Funkcjonalność ta dostępna jest z poziomu sidebar’u (Ustawienia systemu – Kategorie i SubKategorie )
 
 ![ssba](img/9.PNG)
+
+## Demo
+
+Aplikacja wdrożona została na serwer VPS.
+adres: app.plenczewski.pl
+login: admin
+hasło: 123456789
